@@ -11,7 +11,7 @@
 | 4 |targhet.md | تارگت| [targhet.md](https://github.com/fatemehhadizadeh1404/samaneh-khadamat-khaneh-dari/blob/main/docs/targhet.md) |
 | 5 |activity.md | نمودار اکتیویتی | [activity.md](https://github.com/fatemehhadizadeh1404/samaneh-khadamat-khaneh-dari/blob/main/docs/activity%20.md) |
 | 6 |class.md |نمودار کلاس | [class.md](https://github.com/fatemehhadizadeh1404/samaneh-khadamat-khaneh-dari/blob/main/docs/class.md) |
-| 7 |state.md| نموداراستت | [state.md]() |
+| 7 |state.md| نموداراستت | [state.md](https://github.com/fatemehhadizadeh1404/samaneh-khadamat-khaneh-dari/blob/main/docs/state.md) |
 
 
 ---
